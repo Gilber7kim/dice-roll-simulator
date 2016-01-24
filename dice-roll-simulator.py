@@ -1,5 +1,5 @@
 # This makes the while loop that makes the program run forever.
-while True:
+while True: hi
     # it imports the module random.
     import random
     # These two commands print what I typed in the quotation marks
